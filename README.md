@@ -1,19 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammadjavad Nouri
 ===========================================================================================================================================
 
-Front End Web Developer
+Fullstack Web Developer (.Net - React.js)
 -----------------------
 
-My aspiration is to tackle challenging problems that make a difference with people who are smarter than me. Frontend web developer with more than four years of proven and meaningfully contribution to teams of varying size and scope. Used tools include: React.js, Javascript,TypeScript, Antd, REST API, Socket.IO, HTML, SASS, CSS, Axios.js. Trained new front-end Engineers. Led frontend teams.
+My aspiration is to tackle challenging problems that make a difference with people who are smarter than me. Fullstack web developer with more than four years of proven and meaningfully contribution to teams of varying size and scope. Used tools include: C#, .net, Dapper, EntityFramework, SQL, React.js, Javascript,TypeScript, Antd, REST API, Socket.IO, HTML, SASS, CSS, Axios.js. Trained new Engineers. Led teams.
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [nouri\_mj@yahoo.com](mailto:nouri_mj@yahoo.com)
-* 🧠  I'm learning node.js , express.js, mongoDB
 * 🤝  I'm open to collaborating on opensource projects
-
-### Skills
-
-
 
 
 
