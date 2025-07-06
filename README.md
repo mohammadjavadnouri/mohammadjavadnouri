@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer (.Net - React.js)
 -----------------------
 
-My aspiration is to tackle challenging problems that make a difference with people who are smarter than me. Fullstack web developer with more than four years of proven and meaningfully contribution to teams of varying size and scope. Used tools include: C#, .net, Dapper, EntityFramework, SQL, React.js, Javascript,TypeScript, Antd, REST API, Socket.IO, HTML, SASS, CSS, Axios.js. Trained new Engineers. Led teams.
+My aspiration is to tackle challenging problems that make a difference with people who are smarter than me. Fullstack web developer with more than six years of proven and meaningfully contribution to teams of varying size and scope. Using: C#, ASP .Net Core, Dapper, Entity Framework Core, SQL Server, MongoDb, Express.js, Node.js, React.js, Javascript, Socket.IO, Axios.js.
+Trained new Engineers. Led teams.
+Currently an ASP .Net Core developer and Clean Architecture and DDD lover.
+
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [nouri\_mj@yahoo.com](mailto:nouri_mj@yahoo.com)
