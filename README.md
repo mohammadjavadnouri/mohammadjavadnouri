@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammadjavad Nouri
 ===========================================================================================================================================
 
-Fullstack Web Developer (.Net - React.js)
+Fullstack Web Developer (C#/ASP .Net Core)
 -----------------------
 
 My aspiration is to tackle challenging problems that make a difference with people who are smarter than me. Fullstack web developer with more than six years of proven and meaningfully contribution to teams of varying size and scope. Using: C#, ASP .Net Core, Dapper, Entity Framework Core, SQL Server, MongoDb, Express.js, Node.js, React.js, Javascript, Socket.IO, Axios.js.
